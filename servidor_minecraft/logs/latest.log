@@ -415,3 +415,5 @@
 [22:51:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
 [22:51:30] [Server thread/INFO]: <--[HERE]
 [22:55:53] [Server thread/INFO]: DaVIcHoz21 has completed the challenge [Over-Overkill]
+[23:06:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-488, y=64, z=-625} class_2338{x=-487, y=63, z=-627}
+[23:06:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-488, y=64, z=-625} class_2338{x=-487, y=63, z=-627}
