@@ -417,3 +417,9 @@
 [22:55:53] [Server thread/INFO]: DaVIcHoz21 has completed the challenge [Over-Overkill]
 [23:06:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-488, y=64, z=-625} class_2338{x=-487, y=63, z=-627}
 [23:06:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-488, y=64, z=-625} class_2338{x=-487, y=63, z=-627}
+[23:12:03] [Server thread/INFO]: Villager class_1646['Mason'/20897, l='ServerLevel[world]', x=-483.65, y=63.56, z=-691.79] died, message: 'Mason was slain by DaVIcHoz21'
+[23:13:52] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 4.189291182246393,9.907215431846339,1.990112405557852
+[23:15:41] [Server thread/INFO]: Villager class_1646['Villager'/20933, l='ServerLevel[world]', x=-479.75, y=62.94, z=-740.14] died, message: 'Villager was slain by DaVIcHoz21'
+[23:17:27] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
+[23:17:27] [Server thread/INFO]: DaVIcHoz21 left the game
+[23:17:27] [Server thread/INFO]: [voicechat] Disconnecting client DaVIcHoz21
