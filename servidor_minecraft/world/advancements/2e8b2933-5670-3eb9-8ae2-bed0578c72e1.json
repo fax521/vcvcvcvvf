@@ -4576,9 +4576,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/make_a_sign_glow": {
+  "minecraft:recipes/misc/green_dye": {
     "criteria": {
-      "make_a_sign_glow": "2025-01-16 19:12:01 +0000"
+      "has_cactus": "2025-01-16 18:49:33 +0000"
     },
     "done": true
   },
@@ -4594,17 +4594,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/green_dye": {
-    "criteria": {
-      "has_cactus": "2025-01-16 18:49:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "minecraft:white": "2025-01-16 19:07:06 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2025-01-16 19:12:01 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }
