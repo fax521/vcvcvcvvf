@@ -43,3 +43,14 @@
 [03:01:27] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [03:01:28] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address '172.30.124.31', binding to wildcard IP instead
 [03:01:28] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.30.124.31:24454
+[03:13:18] [Server thread/INFO]: Stopping the server
+[03:13:18] [Server thread/INFO]: Stopping server
+[03:13:18] [Server thread/INFO]: Saving players
+[03:13:18] [Server thread/INFO]: Saving worlds
+[03:13:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:13:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:13:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:13:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:13:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:13:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:13:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
