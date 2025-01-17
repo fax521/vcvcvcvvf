@@ -1,5 +1,5 @@
-[03:28:59] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[03:28:59] [main/INFO]: Loading 10 mods:
+[03:31:43] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[03:31:43] [main/INFO]: Loading 10 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 21
@@ -11,44 +11,60 @@
 	   |-- fabric-lifecycle-events-v1 2.3.12+6c1df3606a
 	   |-- fabric-networking-api-v1 4.2.2+60c3209b6a
 	   \-- fabric-resource-loader-v0 1.3.0+565991296a
-[03:28:59] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/vcvcvcvvf/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[03:28:59] [main/INFO]: Compatibility level set to JAVA_17
-[03:29:00] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[03:29:09] [main/INFO]: [voicechat] Compatibility version 18
-[03:29:09] [main/INFO]: [voicechat] Loading plugins
-[03:29:09] [main/INFO]: [voicechat] Loaded 0 plugin(s)
-[03:29:09] [main/INFO]: [voicechat] Initializing plugins
-[03:29:09] [main/INFO]: [voicechat] Initialized 0 plugin(s)
-[03:29:09] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:29:12] [main/INFO]: Loaded 1290 recipes
-[03:29:13] [main/INFO]: Loaded 1399 advancements
-[03:29:13] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[03:29:13] [Server thread/INFO]: Loading properties
-[03:29:13] [Server thread/INFO]: Default game type: SURVIVAL
-[03:29:13] [Server thread/INFO]: Generating keypair
-[03:29:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:29:14] [Server thread/INFO]: Using epoll channel type
-[03:29:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:29:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:29:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:29:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:29:14] [Server thread/INFO]: Preparing level "world"
-[03:29:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:29:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:29:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:29:23] [Server thread/INFO]: Time elapsed: 733 ms
-[03:29:23] [Server thread/INFO]: Done (9.200s)! For help, type "help"
-[03:29:23] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[03:29:23] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address '172.30.124.31', binding to wildcard IP instead
-[03:29:23] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.30.124.31:24454
-[03:30:41] [Server thread/INFO]: Stopping the server
-[03:30:41] [Server thread/INFO]: Stopping server
-[03:30:41] [Server thread/INFO]: Saving players
-[03:30:41] [Server thread/INFO]: Saving worlds
-[03:30:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:30:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03:30:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03:30:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:30:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:30:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:30:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:31:43] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/vcvcvcvvf/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[03:31:43] [main/INFO]: Compatibility level set to JAVA_17
+[03:31:45] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[03:31:54] [main/INFO]: [voicechat] Compatibility version 18
+[03:31:54] [main/INFO]: [voicechat] Loading plugins
+[03:31:54] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[03:31:54] [main/INFO]: [voicechat] Initializing plugins
+[03:31:54] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[03:31:54] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:31:57] [main/INFO]: Loaded 1290 recipes
+[03:31:57] [main/INFO]: Loaded 1399 advancements
+[03:31:58] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[03:31:58] [Server thread/INFO]: Loading properties
+[03:31:58] [Server thread/INFO]: Default game type: SURVIVAL
+[03:31:58] [Server thread/INFO]: Generating keypair
+[03:31:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:31:58] [Server thread/INFO]: Using epoll channel type
+[03:31:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:31:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:31:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:31:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:31:58] [Server thread/INFO]: Preparing level "world"
+[03:32:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:32:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:32:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:32:07] [Server thread/INFO]: Time elapsed: 768 ms
+[03:32:07] [Server thread/INFO]: Done (8.226s)! For help, type "help"
+[03:32:07] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[03:32:07] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address '172.30.124.31', binding to wildcard IP instead
+[03:32:07] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.30.124.31:24454
+[03:36:24] [Server thread/INFO]: Stopping the server
+[03:36:24] [Server thread/ERROR]: Exception stopping the server
+java.io.UncheckedIOException: java.nio.file.NoSuchFileException: /workspaces/vcvcvcvvf/servidor_minecraft/mods/voicechat-fabric-1.21.1-2.5.27 (1).jar
+	at net.fabricmc.loader.impl.util.LoaderUtil.normalizeExistingPath(LoaderUtil.java:46) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getCodeSource(KnotClassDelegate.java:515) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getMetadata(KnotClassDelegate.java:363) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:338) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119) ~[fabric-loader-0.16.3.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at de.maxhenkel.voicechat.plugins.PluginManager.onServerStopped(PluginManager.java:181) ~[voicechat-fabric-1.21.1-2.5.27%20(1).jar:?]
+	at de.maxhenkel.voicechat.voice.server.Server.close(Server.java:204) ~[voicechat-fabric-1.21.1-2.5.27%20(1).jar:?]
+	at de.maxhenkel.voicechat.voice.server.ServerVoiceEvents.serverStopping(ServerVoiceEvents.java:186) ~[voicechat-fabric-1.21.1-2.5.27%20(1).jar:?]
+	at net.fabricmc.fabric.api.event.lifecycle.v1.ServerLifecycleEvents.lambda$static$4(ServerLifecycleEvents.java:63) ~[fabric-lifecycle-events-v1-2.3.1+6c1df3606a-62dcfcd6759e0b16.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zze000$fabric-lifecycle-events-v1$beforeShutdownServer(MinecraftServer.java:2148) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3782(MinecraftServer.java) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3782(class_3176.java:561) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:735) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.nio.file.NoSuchFileException: /workspaces/vcvcvcvvf/servidor_minecraft/mods/voicechat-fabric-1.21.1-2.5.27 (1).jar
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixPath.toRealPath(UnixPath.java:834) ~[?:?]
+	at net.fabricmc.loader.impl.util.LoaderUtil.normalizeExistingPath(LoaderUtil.java:44) ~[fabric-loader-0.16.3.jar:?]
+	... 16 more
