@@ -716,6 +716,7 @@
       "minecraft:hoglin": "2024-12-09 02:21:44 +0000",
       "minecraft:breeze": "2025-01-10 21:18:53 +0000",
       "minecraft:vindicator": "2025-01-11 16:07:28 +0000",
+      "minecraft:magma_cube": "2025-01-18 18:00:42 +0000",
       "minecraft:spider": "2024-12-07 23:19:41 +0000",
       "minecraft:piglin_brute": "2024-12-09 02:26:39 +0000",
       "minecraft:creeper": "2024-12-07 01:16:12 +0000",
@@ -4628,6 +4629,12 @@
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2025-01-16 23:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-01-18 18:01:54 +0000"
     },
     "done": true
   },

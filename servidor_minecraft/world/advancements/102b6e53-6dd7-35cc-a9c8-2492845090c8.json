@@ -4050,27 +4050,21 @@
     },
     "done": true
   },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-01-18 17:55:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_red_mushroom": "2025-01-18 17:58:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-01-18 17:38:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
-      "has_red_mushroom": "2025-01-18 17:58:28 +0000"
+      "has_basalt": "2025-01-18 17:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-01-18 17:55:44 +0000"
     },
     "done": true
   },
@@ -4080,9 +4074,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt": {
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "has_basalt": "2025-01-18 17:38:08 +0000"
+      "has_red_mushroom": "2025-01-18 17:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-18 17:58:28 +0000"
     },
     "done": true
   },
