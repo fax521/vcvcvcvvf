@@ -720,6 +720,7 @@
       "minecraft:spider": "2024-12-07 23:19:41 +0000",
       "minecraft:piglin_brute": "2024-12-09 02:26:39 +0000",
       "minecraft:creeper": "2024-12-07 01:16:12 +0000",
+      "minecraft:wither": "2025-01-18 18:47:56 +0000",
       "minecraft:evoker": "2025-01-11 18:09:10 +0000",
       "minecraft:zombified_piglin": "2025-01-11 19:58:53 +0000",
       "minecraft:witch": "2025-01-11 18:44:04 +0000",
@@ -4635,6 +4636,30 @@
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-01-18 18:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-01-18 18:46:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-01-18 18:46:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-01-18 18:47:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-01-18 18:46:30 +0000"
     },
     "done": true
   },
