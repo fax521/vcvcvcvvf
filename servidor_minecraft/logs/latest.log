@@ -63,3 +63,5 @@
 [18:08:45] [Server thread/INFO]: DaVIcHoz21 left the game
 [18:09:04] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:50094] logged in with entity id 16799 at (-538.3919976426939, 69.0, -315.4447150095213)
 [18:09:04] [Server thread/INFO]: DaVIcHoz21 joined the game
+[18:20:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-402, y=87, z=-361} class_2338{x=-73, y=59, z=-85}
+[18:20:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-402, y=87, z=-361} class_2338{x=-73, y=60, z=-85}
