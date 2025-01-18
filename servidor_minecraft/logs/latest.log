@@ -139,3 +139,9 @@
 [18:54:08] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 0.0,-14.358096138387412,0.0
 [18:58:11] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
 [18:58:11] [Server thread/INFO]: DaVIcHoz21 left the game
+[19:18:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-468, y=64, z=-536} class_2338{x=-287, y=42, z=221}
+[19:18:51] [Server thread/INFO]: troll_face300 experienced kinetic energy
+[19:18:55] [Server thread/INFO]: troll_face300 lost connection: Disconnected
+[19:18:55] [Server thread/INFO]: troll_face300 left the game
+[19:19:04] [Server thread/INFO]: troll_face300[/172.30.212.217:59934] logged in with entity id 44190 at (-472.5, 63.0, -535.5)
+[19:19:04] [Server thread/INFO]: troll_face300 joined the game
