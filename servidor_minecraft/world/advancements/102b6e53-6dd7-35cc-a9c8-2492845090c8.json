@@ -4040,6 +4040,7 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "minecraft:ragdoll": "2025-01-18 18:21:56 +0000",
       "minecraft:british_shorthair": "2025-01-17 00:24:26 +0000"
     },
     "done": false
