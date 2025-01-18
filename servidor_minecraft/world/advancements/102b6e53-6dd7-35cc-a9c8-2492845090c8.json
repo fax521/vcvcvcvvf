@@ -1453,9 +1453,10 @@
       "minecraft:crimson_forest": "2024-12-09 02:21:41 +0000",
       "minecraft:soul_sand_valley": "2024-12-07 21:46:04 +0000",
       "minecraft:nether_wastes": "2025-01-11 19:32:15 +0000",
-      "minecraft:warped_forest": "2025-01-12 02:07:53 +0000"
+      "minecraft:warped_forest": "2025-01-12 02:07:53 +0000",
+      "minecraft:basalt_deltas": "2025-01-18 17:30:02 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
