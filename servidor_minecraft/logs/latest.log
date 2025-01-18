@@ -28,3 +28,12 @@
 [14:53:07] [Server thread/INFO]: troll_face300[/172.30.212.217:58598] logged in with entity id 9 at (-469.1752009446031, 63.0, -534.8879041811938)
 [14:53:07] [Server thread/INFO]: troll_face300 joined the game
 [14:53:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[15:11:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-92, y=240, z=-422} class_2338{x=-91, y=245, z=-426}
+[15:12:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-96, y=245, z=-426} class_2338{x=-96, y=245, z=-425}
+[15:12:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-95, y=245, z=-426} class_2338{x=-91, y=245, z=-420}
+[15:17:23] [Server thread/INFO]: troll_face300 lost connection: Disconnected
+[15:17:23] [Server thread/INFO]: troll_face300 left the game
+[15:18:30] [Server thread/INFO]: troll_face300[/172.30.212.217:60157] logged in with entity id 8115 at (-92.4915968191575, 241.0, -422.62352037770995)
+[15:18:30] [Server thread/INFO]: troll_face300 joined the game
+[15:19:07] [Server thread/INFO]: troll_face300 lost connection: Disconnected
+[15:19:07] [Server thread/INFO]: troll_face300 left the game
