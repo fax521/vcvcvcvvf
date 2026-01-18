@@ -1,0 +1,44 @@
+[19:14:10] [main/INFO]: Loading Minecraft 1.21.11 with Fabric Loader 0.18.2
+[19:14:10] [main/INFO]: Fabric is preparing JARs on first launch, this may take a few seconds...
+[19:14:10] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.18.2
+	   \-- mixinextras 0.5.0
+	- java 21
+	- minecraft 1.21.11
+[19:14:11] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/vcvcvcvvf/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[19:14:21] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[19:14:25] [main/INFO]: Loaded 1470 recipes
+[19:14:25] [main/INFO]: Loaded 1584 advancements
+[19:14:25] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[19:14:25] [Server thread/INFO]: Loading properties
+[19:14:25] [Server thread/INFO]: Default game type: SURVIVAL
+[19:14:25] [Server thread/INFO]: Generating keypair
+[19:14:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:14:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:14:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:14:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:14:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:14:26] [Server thread/INFO]: Preparing level "world"
+[19:14:26] [Server thread/INFO]: Loading 0 persistent chunks...
+[19:14:26] [Server thread/INFO]: Preparing spawn area: 100%
+[19:14:26] [Server thread/INFO]: Time elapsed: 18 ms
+[19:14:26] [Server thread/INFO]: Done (0.556s)! For help, type "help"
+[19:15:26] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:22:53] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/chain' in progress file ./world/advancements/102b6e53-6dd7-35cc-a9c8-2492845090c8.json - it doesn't exist anymore?
+[19:22:53] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:chain] removed now.
+[19:22:53] [Server thread/INFO]: troll_face300[/100.113.160.42:52188] logged in with entity id 63 at (-670.3514338133464, 25.0, -374.2076577234437)
+[19:22:53] [Server thread/INFO]: troll_face300 joined the game
+[19:23:08] [Server thread/WARN]: UUID of added entity already exists: class_1451['Cat'/382, l='ServerLevel[world]', x=-832.04, y=75.00, z=-523.59]
+[19:30:23] [Server thread/INFO]: troll_face300 lost connection: Disconnected
+[19:30:23] [Server thread/INFO]: troll_face300 left the game
+[19:30:37] [Server thread/INFO]: Stopping the server
+[19:30:37] [Server thread/INFO]: Stopping server
+[19:30:37] [Server thread/INFO]: Saving players
+[19:30:37] [Server thread/INFO]: Saving worlds
+[19:30:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:30:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:30:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:30:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:30:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:30:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:30:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
